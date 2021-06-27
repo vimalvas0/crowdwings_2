@@ -1,0 +1,102 @@
+.heading1{
+	display: block;
+	color:var(--pblue);
+	margin:2.5em 5em 0.7em 15em;
+	font-family: Roboto;
+	font-size: 2.3em;
+}
+
+#create-poll-box{
+	background: white;
+	width:60%;
+	margin:1em 12em 0em 18em;
+	border-radius:18px;
+	padding:1em 0em 1em 1em;
+	transition: box-shadow 0.3s;
+}
+
+#create-poll-box:hover{
+	box-shadow: 0px 0px 50px grey;
+}
+
+#create-poll-box form label{
+	display: block;
+	font-size: 2em;
+	font-family: Roboto;
+	font-weight: bold;
+	color:var(--pblue);
+	margin:0.5em 1em 0.3em 0.4em;
+}
+
+#create-poll-box form input{
+	border:none;
+	border-bottom: 2px solid var(--pblue);
+	margin: 0em 1em 0.5em 0.9em;
+	padding: 0.4em 0.5em;
+	width:85%;
+	font-size: 1.1em;
+	transition: border-bottom .3s;
+}
+
+#create-poll-box form input:focus{
+	border-bottom: 2px solid var(--sred);
+}
+
+#create-poll-box form .choices p{
+	display: inline;
+	font-family: Roboto;
+	color:var(--pblue);
+	font-size: 1.2em;
+	margin:0em 1em 0.1em 0.7em;
+}
+
+#create-poll-box form .choices input{
+	margin:0.2em 1em 0.5em 1em;
+	width:50%;
+}
+
+#create-poll-box form #addChoice{
+	display:block;
+	cursor: pointer;
+	margin:-14% 3% 10% 5%;
+	padding: 1em;
+	border-radius:50%;
+	border:2px solid var(--pblue);
+	height:1.5em;
+	width:1.35em;
+	float:right;
+	transition: background-color .15s, border .15s, box-shadow .15s; 
+}
+
+#create-poll-box form #addChoice:hover{
+	background-color: var(--sred);
+	border:2px solid var(--sred);
+	box-shadow: 0px 0px 10px 2px var(--sred)
+}
+
+#create-poll-box form #addChoice:hover > i{
+	color:white;
+}
+
+#create-poll-box form #addChoice i{
+	font-size:1.5em;
+	color:var(--pblue);
+}
+
+#create-poll-box form button{
+	border:none;
+	padding:1em 3em;
+	margin:1% 35%;
+	cursor: pointer;
+	background-color: var(--pblue);
+	color:white;
+	border-radius: 10px;
+	font-family: Roboto;
+	font-weight: bold;
+	font-size: 1.2em;
+	transition: background-color .2s;
+}
+
+#create-poll-box form button:hover{
+	background-color: var(--sred);
+}

@@ -1,0 +1,25 @@
+#search-bar{
+	margin:-4.5% 10% 0% 24%;
+	display: grid;
+	grid-template-columns: 100%;
+	grid-row-gap:0.8em;
+}
+
+.search-heading{
+	display:block;
+	margin:11.5% 25% 0% 25%;
+	font-family: Roboto;
+	font-weight: bold;
+}
+
+#ques-area{
+	margin:1% 5% 10% 24%;	
+}
+
+.ques-box{
+	cursor: pointer;
+}
+
+.ques-box .ques-options{
+	display: none;
+}

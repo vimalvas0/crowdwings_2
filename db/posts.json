@@ -1,0 +1,1706 @@
+[
+    {
+        "username": "Username",
+        "id": 110,
+        "image": "..\/circle.svg",
+        "profile_link": "#",
+        "date": "20 April",
+        "status": "Trainee",
+        "likes": [
+            "Samarth",
+            "Vimal",
+            "Gamer",
+            "Ninja",
+            "Chris",
+            "John",
+            "vimalvas03",
+            "user6"
+        ],
+        "votedby": [
+            "user01",
+            "user02",
+            "user03",
+            "user04",
+            "user05",
+            "user06",
+            "user07",
+            "user08",
+            "user09",
+            "user10",
+            "Gamer",
+            "user11",
+            "user12",
+            "user13",
+            "user14",
+            "user15",
+            "user16",
+            "user17",
+            "user18",
+            "user19",
+            "Vimal",
+            "Samarth",
+            "Chris",
+            "Gamer01",
+            "vimalvas03",
+            "user6"
+        ],
+        "ques": "Do you think we will find evidence of life on Mars?",
+        "ques_options": [
+            {
+                "choice": "Yes",
+                "id": 0,
+                "votes": 6
+            },
+            {
+                "choice": "No",
+                "id": 1,
+                "votes": 6
+            },
+            {
+                "choice": "Maybe",
+                "id": 2,
+                "votes": 7
+            },
+            {
+                "choice": "Maybe not",
+                "id": 3,
+                "votes": 4
+            }
+        ],
+        "comments": [
+            {
+                "username": "username01",
+                "profileLink": "#",
+                "ppic": "..\/circle.svg",
+                "time": "12:27 AM",
+                "comment": "Sample comment #1"
+            },
+            {
+                "username": "username02",
+                "profileLink": "#",
+                "ppic": "..\/circle.svg",
+                "time": "1:24 AM",
+                "comment": "Sample comment #2"
+            }
+        ]
+    },
+    {
+        "username": "user123",
+        "id": "d7c45bee9677578094f4fa178161d96f",
+        "image": "",
+        "profile_link": "",
+        "date": "May 5 2021",
+        "status": "",
+        "likes": [
+            "user4",
+            "user5",
+            "user6"
+        ],
+        "votedby": [
+            "user4",
+            "user5",
+            "user6"
+        ],
+        "ques": "Who will win Champions League today?",
+        "ques_options": [
+            {
+                "choice": "Chelsea",
+                "id": 0,
+                "votes": 2
+            },
+            {
+                "choice": "Real Madrid",
+                "id": 1,
+                "votes": 1
+            }
+        ],
+        "comments": [],
+        "topics": [
+            "football"
+        ]
+    },
+    {
+        "username": "Samarth",
+        "id": 101,
+        "image": "..\/circle.svg",
+        "profile_link": "#",
+        "date": "14 january",
+        "status": "Student",
+        "likes": [
+            "Samarth",
+            "Vimal",
+            "Gamer",
+            "Ninja",
+            "Chris",
+            "John",
+            "user5"
+        ],
+        "votedby": [
+            "user01",
+            "user02",
+            "user03",
+            "user04",
+            "user05",
+            "user06",
+            "user07",
+            "user08",
+            "user09",
+            "user10",
+            "Gamer",
+            "user11",
+            "user12",
+            "user13",
+            "user14",
+            "user15",
+            "user16",
+            "user17",
+            "user18",
+            "user19",
+            "Vimal",
+            "Samarth",
+            "Chris",
+            "Gamer01",
+            "user5"
+        ],
+        "ques": "When do think covid-19 cases will start declining?",
+        "ques_options": [
+            {
+                "choice": "In April",
+                "id": 0,
+                "votes": 9
+            },
+            {
+                "choice": "In May-July",
+                "id": 1,
+                "votes": 5
+            },
+            {
+                "choice": "In August-October",
+                "id": 2,
+                "votes": 6
+            },
+            {
+                "choice": "Even later(comment)",
+                "id": 3,
+                "votes": 5
+            }
+        ],
+        "comments": [
+            {
+                "username": "username01",
+                "profileLink": "#",
+                "ppic": "..\/circle.svg",
+                "time": "12:27 AM",
+                "comment": "Sample comment #1"
+            },
+            {
+                "username": "username02",
+                "profileLink": "#",
+                "ppic": "..\/circle.svg",
+                "time": "1:24 AM",
+                "comment": "Sample comment #2"
+            }
+        ]
+    },
+    {
+        "username": "Vimal",
+        "id": 102,
+        "image": "..\/circle.svg",
+        "profile_link": "#",
+        "date": "14 April",
+        "status": "Trainee",
+        "likes": [
+            "Samarth",
+            "Vimal",
+            "Gamer",
+            "Ninja",
+            "Chris",
+            "John",
+            "Ayush",
+            "vimalvas03"
+        ],
+        "votedby": [
+            "Gamer",
+            "Vimal",
+            "Chris",
+            "user03",
+            "user04",
+            "user05",
+            "user06",
+            "user07",
+            "user08",
+            "user09",
+            "user10",
+            "vimalvas03"
+        ],
+        "ques": "Which is the best programming language for machine learning",
+        "ques_options": [
+            {
+                "choice": "Java",
+                "id": 0,
+                "votes": 3
+            },
+            {
+                "choice": "Python",
+                "id": 1,
+                "votes": 6
+            },
+            {
+                "choice": "Javascript",
+                "id": 2,
+                "votes": 4
+            },
+            {
+                "choice": "C\/C++",
+                "id": 3,
+                "votes": 3
+            },
+            {
+                "choice": "C#",
+                "id": 4,
+                "votes": 2
+            },
+            {
+                "choice": "Other",
+                "id": 5,
+                "votes": 2
+            }
+        ],
+        "comments": [
+            {
+                "username": "username01",
+                "profileLink": "#",
+                "ppic": "..\/circle.svg",
+                "time": "12:27 AM",
+                "comment": "Sample comment #1"
+            },
+            {
+                "username": "username02",
+                "profileLink": "#",
+                "ppic": "..\/circle.svg",
+                "time": "1:24 AM",
+                "comment": "Sample comment #2"
+            }
+        ]
+    },
+    {
+        "username": "Username",
+        "id": 108,
+        "image": "..\/circle.svg",
+        "profile_link": "#",
+        "date": "20 April",
+        "status": "Trainee",
+        "likes": [
+            "Samarth",
+            "Vimal",
+            "Gamer",
+            "Ninja",
+            "Chris",
+            "John",
+            "vimalvas03"
+        ],
+        "votedby": [
+            "user01",
+            "user02",
+            "user03",
+            "user04",
+            "user05",
+            "user06",
+            "user07",
+            "user08",
+            "user09",
+            "user10",
+            "Gamer",
+            "user11",
+            "user12",
+            "user13",
+            "user14",
+            "user15",
+            "user16",
+            "user17",
+            "user18",
+            "user19",
+            "Vimal",
+            "Samarth",
+            "Chris",
+            "Gamer01",
+            "vimalvas03"
+        ],
+        "ques": "Who is most likely to win in Bengal elections?",
+        "ques_options": [
+            {
+                "choice": "BJP",
+                "id": 0,
+                "votes": 9
+            },
+            {
+                "choice": "Congress",
+                "id": 1,
+                "votes": 7
+            },
+            {
+                "choice": "TMC",
+                "id": 2,
+                "votes": 6
+            },
+            {
+                "choice": "Other",
+                "id": 3,
+                "votes": 6
+            }
+        ],
+        "comments": [
+            {
+                "username": "username01",
+                "profileLink": "#",
+                "ppic": "..\/circle.svg",
+                "time": "12:27 AM",
+                "comment": "Sample comment #1"
+            },
+            {
+                "username": "username02",
+                "profileLink": "#",
+                "ppic": "..\/circle.svg",
+                "time": "1:24 AM",
+                "comment": "Sample comment #2"
+            }
+        ]
+    },
+    {
+        "username": "Username",
+        "id": 109,
+        "image": "..\/circle.svg",
+        "profile_link": "#",
+        "date": "20 April",
+        "status": "Trainee",
+        "likes": [
+            "Samarth",
+            "Vimal",
+            "Gamer",
+            "Ninja",
+            "Chris",
+            "John",
+            "vimalvas03"
+        ],
+        "votedby": [
+            "user01",
+            "user02",
+            "user03",
+            "user04",
+            "user05",
+            "user06",
+            "user07",
+            "user08",
+            "user09",
+            "user10",
+            "Gamer",
+            "user11",
+            "user12",
+            "user13",
+            "user14",
+            "user15",
+            "user16",
+            "user17",
+            "user18",
+            "user19",
+            "Vimal",
+            "Samarth",
+            "Chris",
+            "Gamer01"
+        ],
+        "ques": "Which of the following movie would you recommend to watch on your personal experience?",
+        "ques_options": [
+            {
+                "choice": "Godfather",
+                "id": 0,
+                "votes": 7
+            },
+            {
+                "choice": "The Shawshank Redemption",
+                "id": 1,
+                "votes": 6
+            },
+            {
+                "choice": "The Dark Knight",
+                "id": 2,
+                "votes": 6
+            },
+            {
+                "choice": "Pulp fiction",
+                "id": 3,
+                "votes": 7
+            },
+            {
+                "choice": "Inception",
+                "id": 4,
+                "votes": 5
+            },
+            {
+                "choice": "Fight Club",
+                "id": 5,
+                "votes": 5
+            }
+        ],
+        "comments": [
+            {
+                "username": "username01",
+                "profileLink": "#",
+                "ppic": "..\/circle.svg",
+                "time": "12:27 AM",
+                "comment": "Sample comment #1"
+            },
+            {
+                "username": "username02",
+                "profileLink": "#",
+                "ppic": "..\/circle.svg",
+                "time": "1:24 AM",
+                "comment": "Sample comment #2"
+            }
+        ]
+    },
+    {
+        "username": "Username",
+        "id": 103,
+        "image": "..\/circle.svg",
+        "profile_link": "#",
+        "date": "20 April",
+        "status": "Trainee",
+        "likes": [
+            "Samarth",
+            "Vimal",
+            "Gamer",
+            "Ninja",
+            "Chris",
+            "John"
+        ],
+        "votedby": [
+            "user01",
+            "user02",
+            "user03",
+            "user04",
+            "user05",
+            "user06",
+            "user07",
+            "user08",
+            "user09",
+            "user10",
+            "Gamer",
+            "user11",
+            "user12",
+            "user13",
+            "user14",
+            "user15",
+            "user16",
+            "user17",
+            "user18",
+            "user19",
+            "Vimal",
+            "Samarth",
+            "Chris",
+            "Gamer01"
+        ],
+        "ques": "Who is most likely to win ElClassico this time?",
+        "ques_options": [
+            {
+                "choice": "Real Madrid",
+                "id": 0,
+                "votes": 9
+            },
+            {
+                "choice": "Barcelona",
+                "id": 1,
+                "votes": 9
+            },
+            {
+                "choice": "",
+                "id": 2,
+                "votes": 6
+            }
+        ],
+        "comments": [
+            {
+                "username": "username01",
+                "profileLink": "#",
+                "ppic": "..\/circle.svg",
+                "time": "12:27 AM",
+                "comment": "Sample comment #1"
+            },
+            {
+                "username": "username02",
+                "profileLink": "#",
+                "ppic": "..\/circle.svg",
+                "time": "1:24 AM",
+                "comment": "Sample comment #2"
+            }
+        ]
+    },
+    {
+        "username": "Username",
+        "id": 104,
+        "image": "..\/circle.svg",
+        "profile_link": "#",
+        "date": "20 April",
+        "status": "Trainee",
+        "likes": [
+            "Samarth",
+            "Vimal",
+            "Gamer",
+            "Ninja",
+            "Chris",
+            "John"
+        ],
+        "votedby": [
+            "user01",
+            "user02",
+            "user03",
+            "user04",
+            "user05",
+            "user06",
+            "user07",
+            "user08",
+            "user09",
+            "user10",
+            "Gamer",
+            "user11",
+            "user12",
+            "user13",
+            "user14",
+            "user15",
+            "user16",
+            "user17",
+            "user18",
+            "user19",
+            "Vimal",
+            "Samarth",
+            "Chris",
+            "Gamer01"
+        ],
+        "ques": "In how amny years do you think there will be a human civiliztion on Mars?",
+        "ques_options": [
+            {
+                "choice": "In 10 years",
+                "id": 0,
+                "votes": 4
+            },
+            {
+                "choice": "In 20-30 years",
+                "id": 1,
+                "votes": 10
+            },
+            {
+                "choice": "In 30-50 years",
+                "id": 2,
+                "votes": 6
+            },
+            {
+                "choice": "Ever Later",
+                "id": 3,
+                "votes": 4
+            }
+        ],
+        "comments": [
+            {
+                "username": "username01",
+                "profileLink": "#",
+                "ppic": "..\/circle.svg",
+                "time": "12:27 AM",
+                "comment": "Sample comment #1"
+            },
+            {
+                "username": "username02",
+                "profileLink": "#",
+                "ppic": "..\/circle.svg",
+                "time": "1:24 AM",
+                "comment": "Sample comment #2"
+            }
+        ]
+    },
+    {
+        "username": "Username",
+        "id": 105,
+        "image": "..\/circle.svg",
+        "profile_link": "#",
+        "date": "20 April",
+        "status": "Trainee",
+        "likes": [
+            "Samarth",
+            "Vimal",
+            "Gamer",
+            "Ninja",
+            "Chris",
+            "John"
+        ],
+        "votedby": [
+            "user01",
+            "user02",
+            "user03",
+            "user04",
+            "user05",
+            "user06",
+            "user07",
+            "user08",
+            "user09",
+            "user10",
+            "Gamer",
+            "user11",
+            "user12",
+            "user13",
+            "user14",
+            "user15",
+            "user16",
+            "user17",
+            "user18",
+            "user19",
+            "Vimal",
+            "Samarth",
+            "Chris",
+            "Gamer01"
+        ],
+        "ques": "Which is the best smartphone company among the following?",
+        "ques_options": [
+            {
+                "choice": "Apple",
+                "id": 0,
+                "votes": 7
+            },
+            {
+                "choice": "Samsung",
+                "id": 1,
+                "votes": 8
+            },
+            {
+                "choice": "Xiomi",
+                "id": 2,
+                "votes": 8
+            },
+            {
+                "choice": "OnePlus",
+                "id": 3,
+                "votes": 6
+            }
+        ],
+        "comments": [
+            {
+                "username": "username01",
+                "profileLink": "#",
+                "ppic": "..\/circle.svg",
+                "time": "12:27 AM",
+                "comment": "Sample comment #1"
+            },
+            {
+                "username": "username02",
+                "profileLink": "#",
+                "ppic": "..\/circle.svg",
+                "time": "1:24 AM",
+                "comment": "Sample comment #2"
+            }
+        ]
+    },
+    {
+        "username": "Username",
+        "id": 106,
+        "image": "..\/circle.svg",
+        "profile_link": "#",
+        "date": "20 April",
+        "status": "Trainee",
+        "likes": [
+            "Samarth",
+            "Vimal",
+            "Gamer",
+            "Ninja",
+            "Chris",
+            "John"
+        ],
+        "votedby": [
+            "user01",
+            "user02",
+            "user03",
+            "user04",
+            "user05",
+            "user06",
+            "user07",
+            "user08",
+            "user09",
+            "user10",
+            "Gamer",
+            "user11",
+            "user12",
+            "user13",
+            "user14",
+            "user15",
+            "user16",
+            "user17",
+            "user18",
+            "user19",
+            "Vimal",
+            "Samarth",
+            "Chris",
+            "Gamer01"
+        ],
+        "ques": "Which is best movie in Avengers Sequel",
+        "ques_options": [
+            {
+                "choice": "The Avengers",
+                "id": 0,
+                "votes": 5
+            },
+            {
+                "choice": "Avengers:Age of ultron",
+                "id": 1,
+                "votes": 4
+            },
+            {
+                "choice": "Avengers:Infinity Wars",
+                "id": 2,
+                "votes": 8
+            },
+            {
+                "choice": "Avengers:Endgame",
+                "id": 3,
+                "votes": 9
+            }
+        ],
+        "comments": [
+            {
+                "username": "username01",
+                "profileLink": "#",
+                "ppic": "..\/circle.svg",
+                "time": "12:27 AM",
+                "comment": "Sample comment #1"
+            },
+            {
+                "username": "username02",
+                "profileLink": "#",
+                "ppic": "..\/circle.svg",
+                "time": "1:24 AM",
+                "comment": "Sample comment #2"
+            }
+        ]
+    },
+    {
+        "username": "Username",
+        "id": 107,
+        "image": "..\/circle.svg",
+        "profile_link": "#",
+        "date": "20 April",
+        "status": "Trainee",
+        "likes": [
+            "Samarth",
+            "Vimal",
+            "Gamer",
+            "Ninja",
+            "Chris",
+            "John"
+        ],
+        "votedby": [
+            "user01",
+            "user02",
+            "user03",
+            "user04",
+            "user05",
+            "user06",
+            "user07",
+            "user08",
+            "user09",
+            "user10",
+            "Gamer",
+            "user11",
+            "user12",
+            "user13",
+            "user14",
+            "user15",
+            "user16",
+            "user17",
+            "user18",
+            "user19",
+            "Vimal",
+            "Samarth",
+            "Chris",
+            "Gamer01"
+        ],
+        "ques": "I have just learned Python what should i do now?",
+        "ques_options": [
+            {
+                "choice": "Build some projects",
+                "id": 0,
+                "votes": 9
+            },
+            {
+                "choice": "Learn data structure and algorithms",
+                "id": 1,
+                "votes": 6
+            },
+            {
+                "choice": "Learn Python famous libraries",
+                "id": 2,
+                "votes": 3
+            },
+            {
+                "choice": "Something else(comment)",
+                "id": 3,
+                "votes": 4
+            }
+        ],
+        "comments": [
+            {
+                "username": "username01",
+                "profileLink": "#",
+                "ppic": "..\/circle.svg",
+                "time": "12:27 AM",
+                "comment": "Sample comment #1"
+            },
+            {
+                "username": "username02",
+                "profileLink": "#",
+                "ppic": "..\/circle.svg",
+                "time": "1:24 AM",
+                "comment": "Sample comment #2"
+            }
+        ]
+    },
+    {
+        "username": "Username",
+        "id": 111,
+        "image": "..\/circle.svg",
+        "profile_link": "#",
+        "date": "20 April",
+        "status": "Trainee",
+        "likes": [
+            "Samarth",
+            "Vimal",
+            "Gamer",
+            "Ninja",
+            "Chris",
+            "John"
+        ],
+        "votedby": [
+            "user01",
+            "user02",
+            "user03",
+            "user04",
+            "user05",
+            "user06",
+            "user07",
+            "user08",
+            "user09",
+            "user10",
+            "Gamer",
+            "user11",
+            "user12",
+            "user13",
+            "user14",
+            "user15",
+            "user16",
+            "user17",
+            "user18",
+            "user19",
+            "Vimal",
+            "Samarth",
+            "Chris",
+            "Gamer01"
+        ],
+        "ques": "Which of the following platform is best for learning programming in your personal experience?",
+        "ques_options": [
+            {
+                "choice": "Udemy",
+                "id": 0,
+                "votes": 5
+            },
+            {
+                "choice": "Udacity",
+                "id": 1,
+                "votes": 5
+            },
+            {
+                "choice": "Youtube",
+                "id": 2,
+                "votes": 7
+            },
+            {
+                "choice": "Other(comment)",
+                "id": 3,
+                "votes": 4
+            }
+        ],
+        "comments": [
+            {
+                "username": "username01",
+                "profileLink": "#",
+                "ppic": "..\/circle.svg",
+                "time": "12:27 AM",
+                "comment": "Sample comment #1"
+            },
+            {
+                "username": "username02",
+                "profileLink": "#",
+                "ppic": "..\/circle.svg",
+                "time": "1:24 AM",
+                "comment": "Sample comment #2"
+            }
+        ]
+    },
+    {
+        "username": "Username",
+        "id": 112,
+        "image": "..\/circle.svg",
+        "profile_link": "#",
+        "date": "20 April",
+        "status": "Trainee",
+        "likes": [
+            "Samarth",
+            "Vimal",
+            "Gamer",
+            "Ninja",
+            "Chris",
+            "John"
+        ],
+        "votedby": [
+            "user01",
+            "user02",
+            "user03",
+            "user04",
+            "user05",
+            "user06",
+            "user07",
+            "user08",
+            "user09",
+            "user10",
+            "Gamer",
+            "user11",
+            "user12",
+            "user13",
+            "user14",
+            "user15",
+            "user16",
+            "user17",
+            "user18",
+            "user19",
+            "Vimal",
+            "Samarth",
+            "Chris",
+            "Gamer01"
+        ],
+        "ques": "As a beginner which language do you think I should choose to learn?",
+        "ques_options": [
+            {
+                "choice": "C",
+                "id": 0,
+                "votes": 5
+            },
+            {
+                "choice": "Python",
+                "id": 1,
+                "votes": 8
+            },
+            {
+                "choice": "Javascript",
+                "id": 2,
+                "votes": 7
+            },
+            {
+                "choice": "Java",
+                "id": 3,
+                "votes": 5
+            },
+            {
+                "choice": "Other",
+                "id": 3,
+                "votes": 2
+            }
+        ],
+        "comments": [
+            {
+                "username": "username01",
+                "profileLink": "#",
+                "ppic": "..\/circle.svg",
+                "time": "12:27 AM",
+                "comment": "Sample comment #1"
+            },
+            {
+                "username": "username02",
+                "profileLink": "#",
+                "ppic": "..\/circle.svg",
+                "time": "1:24 AM",
+                "comment": "Sample comment #2"
+            }
+        ]
+    },
+    {
+        "username": "Username",
+        "id": 113,
+        "image": "..\/circle.svg",
+        "profile_link": "#",
+        "date": "20 April",
+        "status": "Trainee",
+        "likes": [
+            "Samarth",
+            "Vimal",
+            "Gamer",
+            "Ninja",
+            "Chris",
+            "John"
+        ],
+        "votedby": [
+            "user01",
+            "user02",
+            "user03",
+            "user04",
+            "user05",
+            "user06",
+            "user07",
+            "user08",
+            "user09",
+            "user10",
+            "Gamer",
+            "user11",
+            "user12",
+            "user13",
+            "user14",
+            "user15",
+            "user16",
+            "user17",
+            "user18",
+            "user19",
+            "Vimal",
+            "Samarth",
+            "Chris",
+            "Gamer01"
+        ],
+        "ques": "Which company's football gear do you like the most?",
+        "ques_options": [
+            {
+                "choice": "Nike",
+                "id": 0,
+                "votes": 8
+            },
+            {
+                "choice": "Addidas",
+                "id": 1,
+                "votes": 8
+            },
+            {
+                "choice": "Reebok",
+                "id": 2,
+                "votes": 7
+            },
+            {
+                "choice": "Puma",
+                "id": 3,
+                "votes": 6
+            },
+            {
+                "choice": "Other",
+                "id": 3,
+                "votes": 3
+            }
+        ],
+        "comments": [
+            {
+                "username": "username01",
+                "profileLink": "#",
+                "ppic": "..\/circle.svg",
+                "time": "12:27 AM",
+                "comment": "Sample comment #1"
+            },
+            {
+                "username": "username02",
+                "profileLink": "#",
+                "ppic": "..\/circle.svg",
+                "time": "1:24 AM",
+                "comment": "Sample comment #2"
+            }
+        ]
+    },
+    {
+        "username": "Username",
+        "id": 114,
+        "image": "..\/circle.svg",
+        "profile_link": "#",
+        "date": "20 April",
+        "status": "Trainee",
+        "likes": [
+            "Samarth",
+            "Vimal",
+            "Gamer",
+            "Ninja",
+            "Chris",
+            "John"
+        ],
+        "votedby": [
+            "user01",
+            "user02",
+            "user03",
+            "user04",
+            "user05",
+            "user06",
+            "user07",
+            "user08",
+            "user09",
+            "user10",
+            "Gamer",
+            "user11",
+            "user12",
+            "user13",
+            "user14",
+            "user15",
+            "user16",
+            "user17",
+            "user18",
+            "user19",
+            "Vimal",
+            "Samarth",
+            "Chris",
+            "Gamer01"
+        ],
+        "ques": "Which of the following Battle royale game do you like the most?",
+        "ques_options": [
+            {
+                "choice": "PUBG",
+                "id": 0,
+                "votes": 9
+            },
+            {
+                "choice": "COD:Call of Duty",
+                "id": 1,
+                "votes": 8
+            },
+            {
+                "choice": "Free Fire",
+                "id": 2,
+                "votes": 8
+            },
+            {
+                "choice": "Fortnite",
+                "id": 3,
+                "votes": 5
+            },
+            {
+                "choice": "Other",
+                "id": 4,
+                "votes": 4
+            }
+        ],
+        "comments": [
+            {
+                "username": "username01",
+                "profileLink": "#",
+                "ppic": "..\/circle.svg",
+                "time": "12:27 AM",
+                "comment": "Sample comment #1"
+            },
+            {
+                "username": "username02",
+                "profileLink": "#",
+                "ppic": "..\/circle.svg",
+                "time": "1:24 AM",
+                "comment": "Sample comment #2"
+            }
+        ]
+    },
+    {
+        "username": "Username",
+        "id": 115,
+        "image": "..\/circle.svg",
+        "profile_link": "#",
+        "date": "20 April",
+        "status": "Trainee",
+        "likes": [
+            "Samarth",
+            "Vimal",
+            "Gamer",
+            "Ninja",
+            "Chris",
+            "John"
+        ],
+        "votedby": [
+            "user01",
+            "user02",
+            "user03",
+            "user04",
+            "user05",
+            "user06",
+            "user07",
+            "user08",
+            "user09",
+            "user10",
+            "Gamer",
+            "user11",
+            "user12",
+            "user13",
+            "user14",
+            "user15",
+            "user16",
+            "user17",
+            "user18",
+            "user19",
+            "Vimal",
+            "Samarth",
+            "Chris",
+            "Gamer01"
+        ],
+        "ques": "Which anime's new seasons did you like the most that came in 2021?",
+        "ques_options": [
+            {
+                "choice": "Attack on Titan",
+                "id": 0,
+                "votes": 12
+            },
+            {
+                "choice": "Black Clover",
+                "id": 1,
+                "votes": 8
+            },
+            {
+                "choice": "Dr. Stone: Stone Wars",
+                "id": 2,
+                "votes": 6
+            },
+            {
+                "choice": "That time I got reincarnated as a slime",
+                "id": 4,
+                "votes": 7
+            },
+            {
+                "choice": "Other",
+                "id": 4,
+                "votes": 5
+            }
+        ],
+        "comments": [
+            {
+                "username": "username01",
+                "profileLink": "#",
+                "ppic": "..\/circle.svg",
+                "time": "12:27 AM",
+                "comment": "Sample comment #1"
+            },
+            {
+                "username": "username02",
+                "profileLink": "#",
+                "ppic": "..\/circle.svg",
+                "time": "1:24 AM",
+                "comment": "Sample comment #2"
+            }
+        ]
+    },
+    {
+        "username": "Username",
+        "id": 116,
+        "image": "..\/circle.svg",
+        "profile_link": "#",
+        "date": "20 April",
+        "status": "Trainee",
+        "likes": [
+            "Samarth",
+            "Vimal",
+            "Gamer",
+            "Ninja",
+            "Chris",
+            "John"
+        ],
+        "votedby": [
+            "user01",
+            "user02",
+            "user03",
+            "user04",
+            "user05",
+            "user06",
+            "user07",
+            "user08",
+            "user09",
+            "user10",
+            "Gamer",
+            "user11",
+            "user12",
+            "user13",
+            "user14",
+            "user15",
+            "user16",
+            "user17",
+            "user18",
+            "user19",
+            "Vimal",
+            "Samarth",
+            "Chris",
+            "Gamer01"
+        ],
+        "ques": "Who is more likely to win Ballon d'or this year?",
+        "ques_options": [
+            {
+                "choice": "Kevin De Bruyne",
+                "id": 0,
+                "votes": 6
+            },
+            {
+                "choice": "Lionel Messi",
+                "id": 1,
+                "votes": 8
+            },
+            {
+                "choice": "Kylian Mbappe",
+                "id": 2,
+                "votes": 7
+            },
+            {
+                "choice": "Ronaldo",
+                "id": 3,
+                "votes": 8
+            },
+            {
+                "choice": "Other",
+                "id": 3,
+                "votes": 3
+            }
+        ],
+        "comments": [
+            {
+                "username": "username01",
+                "profileLink": "#",
+                "ppic": "..\/circle.svg",
+                "time": "12:27 AM",
+                "comment": "Sample comment #1"
+            },
+            {
+                "username": "username02",
+                "profileLink": "#",
+                "ppic": "..\/circle.svg",
+                "time": "1:24 AM",
+                "comment": "Sample comment #2"
+            }
+        ]
+    },
+    {
+        "username": "Username",
+        "id": 117,
+        "image": "..\/circle.svg",
+        "profile_link": "#",
+        "date": "20 April",
+        "status": "Trainee",
+        "likes": [
+            "Samarth",
+            "Vimal",
+            "Gamer",
+            "Ninja",
+            "user03",
+            "user04",
+            "user05",
+            "user06",
+            "user07",
+            "user08",
+            "Chris",
+            "John"
+        ],
+        "votedby": [
+            "user01",
+            "user02",
+            "user03",
+            "user04",
+            "user05",
+            "user06",
+            "user07",
+            "user08",
+            "user09",
+            "user10",
+            "Gamer",
+            "user11",
+            "user12",
+            "user13",
+            "user14",
+            "user15",
+            "user16",
+            "user17",
+            "user18",
+            "user19",
+            "Vimal",
+            "Samarth",
+            "Chris",
+            "Gamer01"
+        ],
+        "ques": "Which software to use for game development in your opinion?",
+        "ques_options": [
+            {
+                "choice": "Unity",
+                "id": 0,
+                "votes": 9
+            },
+            {
+                "choice": "Unreal Engine",
+                "id": 1,
+                "votes": 9
+            },
+            {
+                "choice": "GameMake Studio",
+                "id": 2,
+                "votes": 6
+            },
+            {
+                "choice": "Other",
+                "id": 3,
+                "votes": 4
+            }
+        ],
+        "comments": [
+            {
+                "username": "username01",
+                "profileLink": "#",
+                "ppic": "..\/circle.svg",
+                "time": "12:27 AM",
+                "comment": "Sample comment #1"
+            },
+            {
+                "username": "username02",
+                "profileLink": "#",
+                "ppic": "..\/circle.svg",
+                "time": "1:24 AM",
+                "comment": "Sample comment #2"
+            }
+        ]
+    },
+    {
+        "username": "Username",
+        "id": 118,
+        "image": "..\/circle.svg",
+        "profile_link": "#",
+        "date": "20 April",
+        "status": "Trainee",
+        "likes": [
+            "Samarth",
+            "Vimal",
+            "user03",
+            "user04",
+            "user05",
+            "user06",
+            "user07",
+            "user08",
+            "Chris",
+            "John"
+        ],
+        "votedby": [
+            "user01",
+            "user02",
+            "user03",
+            "user04",
+            "user05",
+            "user06",
+            "user07",
+            "user08",
+            "user09",
+            "user10",
+            "Gamer",
+            "user11",
+            "user12",
+            "user13",
+            "user14",
+            "user15",
+            "user16",
+            "user17",
+            "user18",
+            "user19",
+            "Vimal",
+            "Samarth",
+            "Chris",
+            "Gamer01"
+        ],
+        "ques": "Which company's laptop is best in performance in your opinion?",
+        "ques_options": [
+            {
+                "choice": "Apple",
+                "id": 0,
+                "votes": 9
+            },
+            {
+                "choice": "Lenovo",
+                "id": 1,
+                "votes": 7
+            },
+            {
+                "choice": "Microsoft",
+                "id": 2,
+                "votes": 8
+            },
+            {
+                "choice": "Other",
+                "id": 3,
+                "votes": 6
+            }
+        ],
+        "comments": [
+            {
+                "username": "username01",
+                "profileLink": "#",
+                "ppic": "..\/circle.svg",
+                "time": "12:27 AM",
+                "comment": "Sample comment #1"
+            },
+            {
+                "username": "username02",
+                "profileLink": "#",
+                "ppic": "..\/circle.svg",
+                "time": "1:24 AM",
+                "comment": "Sample comment #2"
+            }
+        ]
+    },
+    {
+        "username": "Username",
+        "id": 119,
+        "image": "..\/circle.svg",
+        "profile_link": "#",
+        "date": "20 April",
+        "status": "Trainee",
+        "likes": [
+            "Samarth",
+            "Vimal",
+            "Gamer",
+            "Ninja",
+            "Chris",
+            "John"
+        ],
+        "votedby": [
+            "user01",
+            "user02",
+            "user03",
+            "user04",
+            "user05",
+            "user06",
+            "user07",
+            "user08",
+            "user09",
+            "user10",
+            "Gamer",
+            "user11",
+            "user12",
+            "user13",
+            "user14",
+            "user15",
+            "user16",
+            "user17",
+            "user18",
+            "user19",
+            "Vimal",
+            "Samarth",
+            "Chris",
+            "Gamer01"
+        ],
+        "ques": "How much Ram is recommend for a programmer's PC\/Laptop?",
+        "ques_options": [
+            {
+                "choice": "4-6 Gb",
+                "id": 0,
+                "votes": 6
+            },
+            {
+                "choice": "8 Gb",
+                "id": 1,
+                "votes": 9
+            },
+            {
+                "choice": "16Gb",
+                "id": 2,
+                "votes": 8
+            },
+            {
+                "choice": "32Gb",
+                "id": 3,
+                "votes": 5
+            }
+        ],
+        "comments": [
+            {
+                "username": "username01",
+                "profileLink": "#",
+                "ppic": "..\/circle.svg",
+                "time": "12:27 AM",
+                "comment": "Sample comment #1"
+            },
+            {
+                "username": "username02",
+                "profileLink": "#",
+                "ppic": "..\/circle.svg",
+                "time": "1:24 AM",
+                "comment": "Sample comment #2"
+            }
+        ]
+    },
+    {
+        "username": "Username",
+        "id": 120,
+        "image": "..\/circle.svg",
+        "profile_link": "#",
+        "date": "20 April",
+        "status": "Trainee",
+        "likes": [
+            "Samarth",
+            "Vimal",
+            "Gamer",
+            "Ninja",
+            "Chris",
+            "John"
+        ],
+        "votedby": [
+            "user01",
+            "user02",
+            "user03",
+            "user04",
+            "user05",
+            "user06",
+            "user07",
+            "user08",
+            "user09",
+            "user10",
+            "Gamer",
+            "user11",
+            "user12",
+            "user13",
+            "user14",
+            "user15",
+            "user16",
+            "user17",
+            "user18",
+            "user19",
+            "Vimal",
+            "Samarth",
+            "Chris",
+            "Gamer01"
+        ],
+        "ques": "In which language do you think i should start doing data structure and algorithms?",
+        "ques_options": [
+            {
+                "choice": "C\/C++",
+                "id": 0,
+                "votes": 8
+            },
+            {
+                "choice": "Python",
+                "id": 1,
+                "votes": 8
+            },
+            {
+                "choice": "Java",
+                "id": 2,
+                "votes": 7
+            },
+            {
+                "choice": "Other",
+                "id": 3,
+                "votes": 4
+            }
+        ],
+        "comments": [
+            {
+                "username": "username01",
+                "profileLink": "#",
+                "ppic": "..\/circle.svg",
+                "time": "12:27 AM",
+                "comment": "Sample comment #1"
+            },
+            {
+                "username": "username02",
+                "profileLink": "#",
+                "ppic": "..\/circle.svg",
+                "time": "1:24 AM",
+                "comment": "Sample comment #2"
+            }
+        ]
+    }
+]
